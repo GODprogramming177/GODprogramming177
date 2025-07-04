@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=godprogramming177&label=Profile%20views&color=0e75b6&style=flat" alt="godprogramming177" /> </p>
 
-- 🔭 I’m currently working on **Krushak**
+- 🔭 I’m currently working on **ZSI Project**
 
 - 🌱 I’m currently learning **React Native, Backend Development**
 
