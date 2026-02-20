@@ -4,13 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=godprogramming177&label=Profile%20views&color=0e75b6&style=flat" alt="godprogramming177" /> </p>
 
-- 🔭 I’m currently working on **ZSI Project**
-
-- 🌱 I’m currently learning **React Native, Backend Development**
-
-- 👨‍💻 My protfolio [omprasaddora.vercel.app](omprasaddora.vercel.app)
-
-- 💬 Ask me about **Frontend development,GCP**
+- 💬 Ask me about **Software Developement, STEM PROJECTS, Web3**
 
 - 📫 How to reach me **omprasaddora435@gmail.com**
 
